@@ -1,0 +1,28 @@
+_repo: Fifth-Avenue_16691
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maurice, Arthur Bartlett
+    alias: Maurice, Arthur B.
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '6870'
+    url: http://www.gutenberg.org/2009/agents/6870
+description: Cover -- Contents.
+gutenberg_issued: '2005-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16691'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fifth Avenue (New York, N.Y.)'
+- !lcc 'F106'
+- !lcsh 'Streets -- New York (State) -- New York'
+title: Fifth Avenue
+url: http://www.gutenberg.org/ebooks/16691
